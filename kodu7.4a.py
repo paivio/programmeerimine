@@ -33,5 +33,7 @@ def eelarve(inimesi):
 kutsutud = jah + vb
 tuleb = jah
 
+print("Kutsutud on " + str(jah + vb) + " inimest")
+print(str(jah) + " inimest tuleb")
 print("Maksimaalne eelarve: " + str((eelarve(kutsutud))) + " eurot")
 print("Minimaalne eelarve: " + str((eelarve(tuleb))) + " eurot")
