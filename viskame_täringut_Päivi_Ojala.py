@@ -1,3 +1,5 @@
+### NB! NB! See ei ole lõplik versioon. Tulevad parandused!
+
 # Arvutikontrolltöö nr 1 (variant 1).
 # Päivi Ojala
 # ÜL 2
