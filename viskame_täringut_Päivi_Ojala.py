@@ -9,7 +9,7 @@ from random import *
 
 # Defineerin funkstiooni:
 def viske_tulemus(külgede_arv):
-    arv = randint(6,külgede_arv)
+    arv = randint(1,külgede_arv)
     return arv
 
 # Küsin kasutajalt sisendi:
