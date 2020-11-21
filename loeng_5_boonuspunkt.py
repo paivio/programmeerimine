@@ -3,7 +3,7 @@
 # Algtabel:
 tabel_ridadena = [[2, 3, 8, 5], [7, 5, 1, 9], [1, 6, 9, 2], [1, 5, 7, 0]]
 
-# Teen algtabeli veerud ridadeks (seda ridadega on lihtsam arvutada):
+# Teen algtabeli veerud ridadeks (sest ridadega on lihtsam arvutada):
 for i in tabel_ridadena:
     tabel_veergudena = [[tabel_ridadena[j][i] for j in range(len(tabel_ridadena))] for i in range(len(tabel_ridadena[0]))]
 
